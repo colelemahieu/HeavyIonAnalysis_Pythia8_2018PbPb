@@ -1,0 +1,7 @@
+made it here
+made it to running the script
+
+Processing /afs/cern.ch/user/c/clemahie/MC_MINIAOD_Forest/CMSSW_11_2_1_patch2/src/HeavyIonsAnalysis/Configuration/test/miniAOD_mcSkim.C("/eos/cms/store/group/phys_heavyions/clemahie/Forest_test/pythiaForest/MinBias_PbPb_5p36TeV_Hydjet_mini_R4_Run2/240805_174123/0000/HiForestMiniAOD_*.root", "/eos/cms/store/group/phys_heavyions/clemahie/pythiaReco_miniAOD_0.root")...
+Entries in jet chain = 12866714
+Entries in hiEvt chain = 12866714
+goodEvt=24529

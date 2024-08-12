@@ -1,0 +1,5 @@
+
+Processing /afs/cern.ch/user/c/clemahie/MC_MINIAOD_Forest/CMSSW_11_2_1_patch2/src/HeavyIonsAnalysis/Configuration/test/miniAOD_genSkim.C("/eos/cms/store/group/phys_heavyions/clemahie/Forest_test/pythiaForest/MinBias_PbPb_5p36TeV_Hydjet_mini_R4_Run2/240801_174005/0000/HiForestMiniAOD_*.root", "/eos/cms/store/group/phys_heavyions/clemahie/pythiaGen_jets_0.root")...
+Entries in jet chain = 12741022
+Entries in hiEvt chain = 12741022
+goodEvt=98184
